@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VueJSDotnet51", "VueJSDotnet51\VueJSDotnet51.csproj", "{AE423740-0B81-4C24-B1FD-65467C753D59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{5D90CF21-5B5E-4DB7-9361-DEFF1FE798DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AE423740-0B81-4C24-B1FD-65467C753D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE423740-0B81-4C24-B1FD-65467C753D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE423740-0B81-4C24-B1FD-65467C753D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D90CF21-5B5E-4DB7-9361-DEFF1FE798DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D90CF21-5B5E-4DB7-9361-DEFF1FE798DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D90CF21-5B5E-4DB7-9361-DEFF1FE798DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D90CF21-5B5E-4DB7-9361-DEFF1FE798DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
